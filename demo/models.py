@@ -10,4 +10,4 @@ class Book(models.Model):
     published = models.DateField(blank=True, null=True, default=None)
     is_published = models.BooleanField(default=False)
     cover = models.ImageField(upload_to='Covers/', blank=True)
-    pages = models.IntegerField(max_length=7, default=0, blank=True)
+    pages = models.IntegerField(default=0, blank=True)
