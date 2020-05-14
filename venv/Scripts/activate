@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\pycharm_projects\7.5.2020\proj1\venv"
+VIRTUAL_ENV="H:\react_and_django\13.5.2020\udemy_tutorial\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

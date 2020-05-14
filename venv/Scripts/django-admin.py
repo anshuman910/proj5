@@ -1,4 +1,4 @@
-#!d:\pycharm_projects\7.5.2020\proj1\venv\scripts\python.exe
+#!h:\react_and_django\13.5.2020\udemy_tutorial\venv\scripts\python.exe
 from django.core import management
 
 if __name__ == "__main__":

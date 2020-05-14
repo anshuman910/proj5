@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\pycharm_projects\7.5.2020\proj1\venv
+set VIRTUAL_ENV=H:\react_and_django\13.5.2020\udemy_tutorial\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
