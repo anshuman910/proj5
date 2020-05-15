@@ -6,7 +6,6 @@ from django.shortcuts import render
 # from django.views import View
 from .models import Book
 
-
 # Create your views here.
 # class Another(View):
 #     books = Book.objects.all()
@@ -25,8 +24,16 @@ from .models import Book
 
 # def first(request):
 #     return render(request, 'first_temp.html')
+from rest_framework import viewsets
+from .serializers import BookSerializer
+
 
 def first(request):
     books = Book.objects.all()
     # return render(request, 'first_temp.html', {'data': 'This is a data from views'}
     return render(request, 'first_temp.html', {'books': books})
+
+
+class BookViewSet(viewsets.ModelViewSet):
+    serializer_class = [BookSerializer]
+    queryset = Book.objects.all()
