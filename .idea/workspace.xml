@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="22a8c5c6-30a9-447b-9a77-19bd351368d5" name="Default Changelist" comment="" />
+    <list default="true" id="22a8c5c6-30a9-447b-9a77-19bd351368d5" name="Default Changelist" comment="14.5.2020 v3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,25 +103,45 @@
       <option name="project" value="LOCAL" />
       <updated>1589529510990</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="14.5.2020 v3">
+      <created>1589877623485</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589877623485</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="14.5.2020" />
     <MESSAGE value="14.5.2020 v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="14.5.2020 v2" />
+    <MESSAGE value="14.5.2020 v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="14.5.2020 v3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="0" key="#manage" timestamp="1589388395741">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="392" y="0" key="#manage/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1589388395741" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1589529508079">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1589877578349">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1589529508079" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1589877578349" />
     <state width="1345" height="103" key="GridCell.Tab.0.bottom" timestamp="1589448011666">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -124,9 +162,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1589388774407" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1589446128080">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1589877658901">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1589446128080" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1589877658901" />
   </component>
 </project>
