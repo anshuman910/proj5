@@ -7,8 +7,10 @@ from .views import BookViewSet
 router = routers.DefaultRouter()
 router.register('books', BookViewSet)
 urlpatterns = [
-    path('', include(router.urls)),
-    #path('first', views.first),
-    #path('Another', Another.as_view()),
+    path('', include(router.urls))
+
+    # path('first', views.first),
+
+    # path('Another', Another.as_view()),
 
 ]

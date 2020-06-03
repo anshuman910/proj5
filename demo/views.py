@@ -28,10 +28,10 @@ from rest_framework import viewsets
 from .serializers import BookSerializer
 
 
-def first(request):
-    books = Book.objects.all()
-    # return render(request, 'first_temp.html', {'data': 'This is a data from views'}
-    return render(request, 'first_temp.html', {'books': books})
+# def first(request):
+#     books = Book.objects.all()
+#     # return render(request, 'first_temp.html', {'data': 'This is a data from views'}
+#     return render(request, 'first_temp.html', {'books': books})
 
 
 class BookViewSet(viewsets.ModelViewSet):
