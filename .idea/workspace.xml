@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="22a8c5c6-30a9-447b-9a77-19bd351368d5" name="Default Changelist" comment="3.6.20 v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="feaaea0d-4212-47b1-b1bd-16c3b46f223d" />
   </component>
   <component name="ProjectId" id="1brRjPNceD0E6pVhZOFxHRfRZp4" />
   <component name="ProjectLevelVcsManager">
@@ -133,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591194837575</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="3.6.2020 v3">
+      <created>1591195780398</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591195780398</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,7 +168,8 @@
     <MESSAGE value="19.5.2020 v1" />
     <MESSAGE value="3.6.20 v1" />
     <MESSAGE value="3.6.20 v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.6.20 v2" />
+    <MESSAGE value="3.6.2020 v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.6.2020 v3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="0" key="#manage" timestamp="1589388395741">
@@ -169,34 +181,38 @@
     </state>
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1589529508079" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1589877578349" />
-    <state width="1345" height="103" key="GridCell.Tab.0.bottom" timestamp="1591170116044">
+    <state x="543" y="290" key="Github.Dialog.Accounts.Choose" timestamp="1591195192862">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="103" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591170116044" />
+    <state x="543" y="290" key="Github.Dialog.Accounts.Choose/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591195192862" />
+    <state width="1345" height="103" key="GridCell.Tab.0.bottom" timestamp="1591367837690">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="103" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591367837690" />
     <state width="1345" height="102" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590763819893" />
-    <state width="1345" height="103" key="GridCell.Tab.0.center" timestamp="1591170116044">
+    <state width="1345" height="103" key="GridCell.Tab.0.center" timestamp="1591367837690">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="103" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591170116044" />
+    <state width="1345" height="103" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591367837690" />
     <state width="1345" height="102" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590763819892" />
-    <state width="1345" height="103" key="GridCell.Tab.0.left" timestamp="1591170116043">
+    <state width="1345" height="103" key="GridCell.Tab.0.left" timestamp="1591367837690">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="103" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591170116043" />
+    <state width="1345" height="103" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591367837690" />
     <state width="1345" height="102" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590763819892" />
-    <state width="1345" height="103" key="GridCell.Tab.0.right" timestamp="1591170116044">
+    <state width="1345" height="103" key="GridCell.Tab.0.right" timestamp="1591367837690">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="103" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591170116044" />
+    <state width="1345" height="103" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591367837690" />
     <state width="1345" height="102" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590763819893" />
-    <state x="184" y="13" key="SettingsEditor" timestamp="1591195110432">
+    <state x="184" y="13" key="SettingsEditor" timestamp="1591195787928">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="13" key="SettingsEditor/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591195110432" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1591194885092">
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591195787928" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1591195807333">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591194885092" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1591195807333" />
     <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1589880352149" />
     <state x="483" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591194937878">
       <screen x="0" y="0" width="1366" height="738" />

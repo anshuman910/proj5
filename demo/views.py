@@ -35,5 +35,5 @@ from .serializers import BookSerializer
 
 
 class BookViewSet(viewsets.ModelViewSet):
-    serializer_class = [BookSerializer]
+    serializer_class = BookSerializer
     queryset = Book.objects.all()
