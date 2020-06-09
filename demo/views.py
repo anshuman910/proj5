@@ -26,7 +26,7 @@ from .models import Book
 #     return render(request, 'first_temp.html')
 from rest_framework import viewsets
 from .serializers import BookSerializer
-
+from rest_framework.authentication import TokenAuthentication
 
 # def first(request):
 #     books = Book.objects.all()
@@ -37,3 +37,4 @@ from .serializers import BookSerializer
 class BookViewSet(viewsets.ModelViewSet):
     serializer_class = BookSerializer
     queryset = Book.objects.all()
+    authentication_classes = (TokenAuthentication,)
